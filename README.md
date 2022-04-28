@@ -1,0 +1,1 @@
+School project to get hands-on experience with automated code analysis and vulnerability scanning.
